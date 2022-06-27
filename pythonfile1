@@ -1,7 +1,7 @@
 
 username = 'Umar'
 
-password = 'Bob'
+password = 'ABC'
 
 userInput = input("Enter your username?\n")
 
