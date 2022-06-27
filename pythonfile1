@@ -11,7 +11,4 @@ if userInput == username:
         print("Welcome!")
     else:
         print("That is the wrong password.")
-else:
-    print("That is the wrong username.")
-
 
